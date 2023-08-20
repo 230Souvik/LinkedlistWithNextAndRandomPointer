@@ -6,6 +6,8 @@ An example of the linked list is shown in the below image:
 
 An example of linked list with a random pointerAn example of linked list with a random pointer
 An example of linked list with a random pointerAn example of linked list with a random pointer
+![image](https://github.com/230Souvik/LinkedlistWithNextAndRandomPointer/assets/135532224/b7ee9664-180e-453c-af70-0ad1dc1feb0d)
+
 
 Approach 1 (Using Extra Space): The idea to solve this problem is: 
 
@@ -23,6 +25,8 @@ The linked list created in this way is the required linked list.
 Follow the illustration below for a better understanding:
 
 Illustration:
+![image](https://github.com/230Souvik/LinkedlistWithNextAndRandomPointer/assets/135532224/950149a5-b333-4b01-91ff-1adf16cc2e04)
+
 
 Consider the linked list shown below:
 
@@ -67,8 +71,12 @@ At fifth node:
 
 Linking arbit pointer of duplicate of 5th node
 Linking arbit pointer of duplicate of 5th node
+![image](https://github.com/230Souvik/LinkedlistWithNextAndRandomPointer/assets/135532224/89cf943a-3cfc-4b5c-b5c0-121cae1e9e73)
+
 
 The final linked list is as shown below:
 
 The original and the clone
 The original and the clone
+![image](https://github.com/230Souvik/LinkedlistWithNextAndRandomPointer/assets/135532224/76c8e532-0ebe-4dc9-bfba-74571d5e748c)
+
